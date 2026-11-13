@@ -1,3 +1,5 @@
+Discente: Guilherme de Aquino Pacheco
+
 Na P1 o código era feito com funções (converterParaCelsius, converterParaKelvin...) e uma estrutura de condição para escolher qual chamar. Agora cada escala virou uma classe.
 
 A classe Escala é abstrata e obriga as filhas a terem os métodos para_celsius e de_celsius. As classes Celsius, Kelvin e Fahrenheit herdam dela:
